@@ -18,3 +18,12 @@ This the solution code and screenshot
 ## Solution code 
 see [`02_Population_Density_Diference`](02_Population_Density_Difernece.sql) for the code
 
+## 3. Weather Observation Station 19 : Query the Euclidean Distance between points and and format your answer to display decimal digits.
+
+This the solution code and screenshot
+
+## Screenshot
+![Select solution ss](assets/image3.png)
+## Solution code 
+see [`03_Weather_Observation_station_19`](03_Weather_Observation_Station_19.sql) for the code
+
