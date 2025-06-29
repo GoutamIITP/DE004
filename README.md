@@ -70,3 +70,12 @@ This the solution code and screenshot
 ![Select solution ss](assets/image8.png)
 ## Solution code 
 see [`08_Top_Compettitors.sql`](08_Top_Compettitors.sql) for the code
+
+## 9. Ollivander's Inventory : Question based on Joins
+
+This the solution code and screenshot
+
+## Screenshot
+![Select solution ss](assets/image9.png)
+## Solution code 
+see [`09_Ollivander's_Inventory.sql`](09_Ollivander's_Inventory.sql) for the code
