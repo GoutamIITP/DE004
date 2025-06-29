@@ -52,3 +52,12 @@ This the solution code and screenshot
 ![Select solution ss](assets/image6.png)
 ## Solution code 
 see [`06_African_Cities`](06_African_Cities.sql) for the code
+
+## 7. Report : Write a SQL Query to create a report
+
+This the solution code and screenshot
+
+## Screenshot
+![Select solution ss](assets/image7.png)
+## Solution code 
+see [`07_Report`](07_Report.sql) for the code
