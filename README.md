@@ -61,3 +61,12 @@ This the solution code and screenshot
 ![Select solution ss](assets/image7.png)
 ## Solution code 
 see [`07_Report`](07_Report.sql) for the code
+
+## 8.Top Compettitors : Write SQL Query to find out top competitors
+
+This the solution code and screenshot
+
+## Screenshot
+![Select solution ss](assets/image8.png)
+## Solution code 
+see [`08_Top_Compettitors.sql`](08_Top_Compettitors.sql) for the code
