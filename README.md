@@ -79,3 +79,11 @@ This the solution code and screenshot
 ![Select solution ss](assets/image9.png)
 ## Solution code 
 see [`09_Ollivander's_Inventory.sql`](09_Ollivander's_Inventory.sql) for the code
+
+## 10. Contest Leaderboard : Question based on joins
+This the solution code and screenshot
+
+## Screenshot
+![Select solution ss](assets/image10.png)
+## Solution code 
+see [`10_Contest_Leaderboard.sql`](10_Contest_Leaderboard.sql) for the code
