@@ -27,3 +27,11 @@ This the solution code and screenshot
 ## Solution code 
 see [`03_Weather_Observation_station_19`](03_Weather_Observation_Station_19.sql) for the code
 
+## 4. Weather Observation Station 20 :Query the median of the Northern Latitudes (LAT_N) from STATION and round your answer to decimal places.
+
+This the solution code and screenshot
+
+## Screenshot
+![Select solution ss](assets/image4.png)
+## Solution code 
+see [`04_Weather_Observation_station_20`](04_Weather_Observation_Station_20.sql) for the code
