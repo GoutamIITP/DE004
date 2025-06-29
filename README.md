@@ -35,3 +35,20 @@ This the solution code and screenshot
 ![Select solution ss](assets/image4.png)
 ## Solution code 
 see [`04_Weather_Observation_station_20`](04_Weather_Observation_Station_20.sql) for the code
+
+## 5. African Cities : Query the names of all cities where the CONTINENT is 'Africa'.
+
+This the solution code and screenshot
+
+## Screenshot
+![Select solution ss](assets/image5.png)
+## Solution code 
+see [`05_African_Cities`](05_African_Cities.sql) for the code
+## 6. African Cities : Query the names of all cities where the CONTINENT is 'Africa'.
+
+This the solution code and screenshot
+
+## Screenshot
+![Select solution ss](assets/image6.png)
+## Solution code 
+see [`06_African_Cities`](06_African_Cities.sql) for the code
